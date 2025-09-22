@@ -1,4 +1,5 @@
 In this project, I analyze the Online Retail dataset provided by the UC Irvine Machine Learning Repository.
+link of dataset : https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 Information about the dataset available on the site:
 
